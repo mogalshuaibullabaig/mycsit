@@ -1,0 +1,49 @@
+ul{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    list-style: none
+}
+li{
+    margin-right: 30px;
+    float: left
+}
+.header{
+    background: #e1e1e1;
+    height: 30px;
+    padding: 20px 20px 0;
+}
+footer{
+    background: #e1e1e1;
+    height: 400px;
+    padding: inherit
+}
+h1 h2{
+    text-align: center;
+    color: blue;
+    text-align: center;
+    color: aqua;
+        
+}
+details{
+    text-align: center;
+    color: red;
+}
+img{
+    text-align: center;
+    height: 200;
+    width: 200;
+    border:1px solid green;
+    margin-right: 50px;
+    image-orientation: 2px;
+    border-radius: 10%;
+    transition: 10px;
+}
+h1 {
+    text-align: center;
+    color: blue;
+}
+h2{
+    text-align: center;
+    color: blue;
+    
